@@ -12,7 +12,7 @@ This repository contains all related issues of GTAV-NightRain dataset. Updates w
 ![](figures/examples.png)
 
 The entire dataset consists of 12860 rainy images together with 1286 rain-free ground truths collected in GTA V and is divide into three subsets. The `set1` and `set3` were rendered with the default rain shape while `set2` was rendered with the one we created. 5000/500 rainy/clean images for `set1` and `set2` and 1860/186 rainy/clean images for `set3`. Every 10 rainy images correspond to 1 clean image and they are named as `0000_00.png` to `0000_09.png` and `0000.png`, respectively. The dataset is arranged in the structure as follows:
-```shell
+```
 GTAV-NightRain (12860 rainy / 1286 clean)
     |
     |--set1/set2
@@ -56,9 +56,8 @@ N/A at the moment.
 
 
 ## To Do
-- [] Update Tool_dependency.md
-- [] Update Modifications.md
-- [] ...
-
+- [ ] Update Tool_dependency.md
+- [ ] Update Modifications.md
+- [ ] ...
 ## License
 The GTAV-NightRain dataset is licensed by [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). It is made freely available to academic and non-academic entities for non-commercial purposes such as academic research, teaching, scientific publications, or personal experimentation. 
